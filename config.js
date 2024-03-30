@@ -41,14 +41,14 @@ global.suittag = ['5493873687620'];
 global.prems = ['19145948340'];
 
 // ❒═════════════════◊【 𝐍𝐎𝐌𝐁𝐑𝐄𝐒 】◊═════════════════❒
-global.packname = '🌎 𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥-𝙈𝘿 🌎';
-global.author = '𝙉𝙖𝙪𝙛𝙧𝙖𝙜𝙤';
-global.wm = '👑 𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥-𝙈𝘿 👑';
-global.sk = '♨️ 𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥 ♨️';
-global.titulowm = '🏙️ 𝙉𝙖𝙪𝙛𝙧𝙖𝘽𝙤𝙩-𝙈𝘿 🏙️';
-global.titulowm2 = `𝙉𝙖𝙪𝙛𝙧𝙖𝙜𝙤 ✨`
-global.igfg = '𝙉𝙖𝙪𝙛𝙧𝙖𝙜𝙤';
-global.wait = '*ⓘ 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾....*';
+global.packname = '†[MODO DIABLO BOOT]†👺';
+global.author = '†[MODO DIABLO BOOT]†👺';
+global.wm = '†[MODO DIABLO BOOT]†👺';
+global.sk = '†[MODO DIABLO BOOT]†👺';
+global.titulowm = '†[MODO DIABLO BOOT]†👺';
+global.titulowm2 = `†[MODO DIABLO BOOT]†👺`
+global.igfg = '†[MODO DIABLO BOOT]†👺';
+global.wait = '†[MODO DIABLO BOOT]†👺';
 global.vs = '1.0.5';
 // ❒═════════════════◊【 𝐌𝐄𝐍𝐔𝐒 𝐃𝐄 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 】◊═════════════════❒
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
